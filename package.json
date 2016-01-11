@@ -1,0 +1,22 @@
+{
+  "name": "uglass",
+  "version": "0.0.1",
+  "description": "A dead simple http request printer",
+  "main": "uglass.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "dependencies": {
+    "cli": "^0.11.1",
+    "colors": "^1.1.2"
+  },
+  "keywords": [
+    "http"
+  ],
+  "preferGlobal": "true",
+  "bin": {
+    "uglass": "uglass.js"
+  },
+  "author": "Alessio 'Bl@ster' Biancalana",
+  "license": "MIT"
+}
